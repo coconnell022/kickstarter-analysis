@@ -48,3 +48,7 @@ One limitation of this dataset is the lack of specifics in each subcategory. I t
 4.	What are some other possible tables and/or graphs that we could create?
 
 I think it could also be helpful to look into the average donation for specific fundraising campaigns to get better insight into how individual successful plays were funded.  This sort of insight could help determine what type of people and demographic should be targeted in order to have an extremely successful campaign. 
+
+
+    Caroline O'Connell
+    September 27th, 2020
